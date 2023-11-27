@@ -1,0 +1,92 @@
+[
+    {
+        "id": "13",
+        "formula_id": "647",
+        "theory_id": "18"
+    },
+    {
+        "id": "14",
+        "formula_id": "648",
+        "theory_id": "18"
+    },
+    {
+        "id": "15",
+        "formula_id": "649",
+        "theory_id": "18"
+    },
+    {
+        "id": "18",
+        "formula_id": "253",
+        "theory_id": "43"
+    },
+    {
+        "id": "20",
+        "formula_id": "255",
+        "theory_id": "43"
+    },
+    {
+        "id": "22",
+        "formula_id": "253",
+        "theory_id": "44"
+    },
+    {
+        "id": "23",
+        "formula_id": "340",
+        "theory_id": "45"
+    },
+    {
+        "id": "24",
+        "formula_id": "23",
+        "theory_id": "44"
+    },
+    {
+        "id": "44",
+        "formula_id": "6",
+        "theory_id": "41"
+    },
+    {
+        "id": "45",
+        "formula_id": "7",
+        "theory_id": "61"
+    },
+    {
+        "id": "46",
+        "formula_id": "53",
+        "theory_id": "62"
+    },
+    {
+        "id": "51",
+        "formula_id": "27",
+        "theory_id": "69"
+    },
+    {
+        "id": "52",
+        "formula_id": "123",
+        "theory_id": "70"
+    },
+    {
+        "id": "53",
+        "formula_id": "126",
+        "theory_id": "70"
+    },
+    {
+        "id": "55",
+        "formula_id": "854",
+        "theory_id": "71"
+    },
+    {
+        "id": "56",
+        "formula_id": "27",
+        "theory_id": "72"
+    },
+    {
+        "id": "57",
+        "formula_id": "28",
+        "theory_id": "73"
+    },
+    {
+        "id": "61",
+        "formula_id": "944",
+        "theory_id": "75"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "24",
+        "formula_id": "291",
+        "constant_id": "3"
+    },
+    {
+        "id": "25",
+        "formula_id": "317",
+        "constant_id": "3"
+    },
+    {
+        "id": "26",
+        "formula_id": "317",
+        "constant_id": "4"
+    },
+    {
+        "id": "27",
+        "formula_id": "291",
+        "constant_id": "4"
+    },
+    {
+        "id": "28",
+        "formula_id": "317",
+        "constant_id": "24"
+    },
+    {
+        "id": "31",
+        "formula_id": "317",
+        "constant_id": "33"
+    },
+    {
+        "id": "34",
+        "formula_id": "319",
+        "constant_id": "33"
+    },
+    {
+        "id": "35",
+        "formula_id": "320",
+        "constant_id": "33"
+    },
+    {
+        "id": "36",
+        "formula_id": "362",
+        "constant_id": "33"
+    },
+    {
+        "id": "37",
+        "formula_id": "316",
+        "constant_id": "33"
+    },
+    {
+        "id": "41",
+        "formula_id": "840",
+        "constant_id": "47"
+    },
+    {
+        "id": "42",
+        "formula_id": "841",
+        "constant_id": "47"
+    },
+    {
+        "id": "43",
+        "formula_id": "126",
+        "constant_id": "48"
+    },
+    {
+        "id": "46",
+        "formula_id": "134",
+        "constant_id": "49"
+    }
+]

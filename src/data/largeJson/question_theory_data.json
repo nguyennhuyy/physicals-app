@@ -1,0 +1,1952 @@
+[
+    {
+        "id": "2",
+        "question_id": "1161",
+        "theory_id": "33"
+    },
+    {
+        "id": "4",
+        "question_id": "1156",
+        "theory_id": "32"
+    },
+    {
+        "id": "8",
+        "question_id": "1163",
+        "theory_id": "60"
+    },
+    {
+        "id": "10",
+        "question_id": "1115",
+        "theory_id": "61"
+    },
+    {
+        "id": "11",
+        "question_id": "1116",
+        "theory_id": "61"
+    },
+    {
+        "id": "12",
+        "question_id": "1117",
+        "theory_id": "61"
+    },
+    {
+        "id": "14",
+        "question_id": "1120",
+        "theory_id": "41"
+    },
+    {
+        "id": "15",
+        "question_id": "1122",
+        "theory_id": "61"
+    },
+    {
+        "id": "19",
+        "question_id": "1125",
+        "theory_id": "61"
+    },
+    {
+        "id": "24",
+        "question_id": "3964",
+        "theory_id": "62"
+    },
+    {
+        "id": "26",
+        "question_id": "6346",
+        "theory_id": "62"
+    },
+    {
+        "id": "27",
+        "question_id": "6340",
+        "theory_id": "62"
+    },
+    {
+        "id": "41",
+        "question_id": "6364",
+        "theory_id": "63"
+    },
+    {
+        "id": "45",
+        "question_id": "6367",
+        "theory_id": "63"
+    },
+    {
+        "id": "49",
+        "question_id": "6365",
+        "theory_id": "63"
+    },
+    {
+        "id": "51",
+        "question_id": "6376",
+        "theory_id": "63"
+    },
+    {
+        "id": "54",
+        "question_id": "6377",
+        "theory_id": "63"
+    },
+    {
+        "id": "57",
+        "question_id": "2465",
+        "theory_id": "36"
+    },
+    {
+        "id": "58",
+        "question_id": "2465",
+        "theory_id": "37"
+    },
+    {
+        "id": "63",
+        "question_id": "2466",
+        "theory_id": "36"
+    },
+    {
+        "id": "64",
+        "question_id": "2466",
+        "theory_id": "37"
+    },
+    {
+        "id": "66",
+        "question_id": "2468",
+        "theory_id": "37"
+    },
+    {
+        "id": "67",
+        "question_id": "2469",
+        "theory_id": "37"
+    },
+    {
+        "id": "68",
+        "question_id": "2470",
+        "theory_id": "37"
+    },
+    {
+        "id": "69",
+        "question_id": "2471",
+        "theory_id": "37"
+    },
+    {
+        "id": "73",
+        "question_id": "2472",
+        "theory_id": "37"
+    },
+    {
+        "id": "74",
+        "question_id": "2472",
+        "theory_id": "36"
+    },
+    {
+        "id": "76",
+        "question_id": "2473",
+        "theory_id": "37"
+    },
+    {
+        "id": "77",
+        "question_id": "2474",
+        "theory_id": "37"
+    },
+    {
+        "id": "79",
+        "question_id": "2476",
+        "theory_id": "37"
+    },
+    {
+        "id": "82",
+        "question_id": "2477",
+        "theory_id": "36"
+    },
+    {
+        "id": "83",
+        "question_id": "2477",
+        "theory_id": "37"
+    },
+    {
+        "id": "88",
+        "question_id": "2478",
+        "theory_id": "36"
+    },
+    {
+        "id": "89",
+        "question_id": "2478",
+        "theory_id": "37"
+    },
+    {
+        "id": "92",
+        "question_id": "2479",
+        "theory_id": "37"
+    },
+    {
+        "id": "94",
+        "question_id": "2736",
+        "theory_id": "61"
+    },
+    {
+        "id": "96",
+        "question_id": "2739",
+        "theory_id": "64"
+    },
+    {
+        "id": "98",
+        "question_id": "2742",
+        "theory_id": "64"
+    },
+    {
+        "id": "100",
+        "question_id": "2749",
+        "theory_id": "64"
+    },
+    {
+        "id": "102",
+        "question_id": "2750",
+        "theory_id": "64"
+    },
+    {
+        "id": "107",
+        "question_id": "2756",
+        "theory_id": "64"
+    },
+    {
+        "id": "108",
+        "question_id": "1155",
+        "theory_id": "65"
+    },
+    {
+        "id": "110",
+        "question_id": "1160",
+        "theory_id": "65"
+    },
+    {
+        "id": "111",
+        "question_id": "1162",
+        "theory_id": "65"
+    },
+    {
+        "id": "113",
+        "question_id": "1166",
+        "theory_id": "65"
+    },
+    {
+        "id": "114",
+        "question_id": "2504",
+        "theory_id": "65"
+    },
+    {
+        "id": "117",
+        "question_id": "4758",
+        "theory_id": "66"
+    },
+    {
+        "id": "120",
+        "question_id": "4759",
+        "theory_id": "67"
+    },
+    {
+        "id": "122",
+        "question_id": "4760",
+        "theory_id": "66"
+    },
+    {
+        "id": "123",
+        "question_id": "4761",
+        "theory_id": "66"
+    },
+    {
+        "id": "125",
+        "question_id": "4762",
+        "theory_id": "67"
+    },
+    {
+        "id": "126",
+        "question_id": "4763",
+        "theory_id": "66"
+    },
+    {
+        "id": "129",
+        "question_id": "4764",
+        "theory_id": "66"
+    },
+    {
+        "id": "131",
+        "question_id": "4765",
+        "theory_id": "66"
+    },
+    {
+        "id": "134",
+        "question_id": "4766",
+        "theory_id": "67"
+    },
+    {
+        "id": "136",
+        "question_id": "4767",
+        "theory_id": "66"
+    },
+    {
+        "id": "138",
+        "question_id": "4768",
+        "theory_id": "67"
+    },
+    {
+        "id": "141",
+        "question_id": "4769",
+        "theory_id": "67"
+    },
+    {
+        "id": "142",
+        "question_id": "4814",
+        "theory_id": "68"
+    },
+    {
+        "id": "144",
+        "question_id": "3242",
+        "theory_id": "69"
+    },
+    {
+        "id": "145",
+        "question_id": "3243",
+        "theory_id": "69"
+    },
+    {
+        "id": "146",
+        "question_id": "3244",
+        "theory_id": "69"
+    },
+    {
+        "id": "147",
+        "question_id": "3245",
+        "theory_id": "69"
+    },
+    {
+        "id": "148",
+        "question_id": "3246",
+        "theory_id": "69"
+    },
+    {
+        "id": "151",
+        "question_id": "3247",
+        "theory_id": "69"
+    },
+    {
+        "id": "153",
+        "question_id": "3248",
+        "theory_id": "69"
+    },
+    {
+        "id": "154",
+        "question_id": "3249",
+        "theory_id": "69"
+    },
+    {
+        "id": "156",
+        "question_id": "3250",
+        "theory_id": "69"
+    },
+    {
+        "id": "157",
+        "question_id": "3251",
+        "theory_id": "69"
+    },
+    {
+        "id": "160",
+        "question_id": "3252",
+        "theory_id": "69"
+    },
+    {
+        "id": "161",
+        "question_id": "3253",
+        "theory_id": "69"
+    },
+    {
+        "id": "162",
+        "question_id": "3255",
+        "theory_id": "69"
+    },
+    {
+        "id": "163",
+        "question_id": "3256",
+        "theory_id": "69"
+    },
+    {
+        "id": "164",
+        "question_id": "3257",
+        "theory_id": "69"
+    },
+    {
+        "id": "165",
+        "question_id": "3258",
+        "theory_id": "69"
+    },
+    {
+        "id": "166",
+        "question_id": "3259",
+        "theory_id": "69"
+    },
+    {
+        "id": "167",
+        "question_id": "3260",
+        "theory_id": "69"
+    },
+    {
+        "id": "168",
+        "question_id": "3261",
+        "theory_id": "69"
+    },
+    {
+        "id": "170",
+        "question_id": "3254",
+        "theory_id": "69"
+    },
+    {
+        "id": "171",
+        "question_id": "5251",
+        "theory_id": "70"
+    },
+    {
+        "id": "173",
+        "question_id": "5252",
+        "theory_id": "70"
+    },
+    {
+        "id": "174",
+        "question_id": "5253",
+        "theory_id": "70"
+    },
+    {
+        "id": "175",
+        "question_id": "5254",
+        "theory_id": "70"
+    },
+    {
+        "id": "176",
+        "question_id": "5255",
+        "theory_id": "70"
+    },
+    {
+        "id": "177",
+        "question_id": "5256",
+        "theory_id": "70"
+    },
+    {
+        "id": "178",
+        "question_id": "5257",
+        "theory_id": "70"
+    },
+    {
+        "id": "179",
+        "question_id": "5259",
+        "theory_id": "70"
+    },
+    {
+        "id": "180",
+        "question_id": "5258",
+        "theory_id": "70"
+    },
+    {
+        "id": "182",
+        "question_id": "6409",
+        "theory_id": "63"
+    },
+    {
+        "id": "183",
+        "question_id": "6410",
+        "theory_id": "63"
+    },
+    {
+        "id": "184",
+        "question_id": "6412",
+        "theory_id": "63"
+    },
+    {
+        "id": "185",
+        "question_id": "6414",
+        "theory_id": "63"
+    },
+    {
+        "id": "186",
+        "question_id": "6416",
+        "theory_id": "63"
+    },
+    {
+        "id": "187",
+        "question_id": "5852",
+        "theory_id": "72"
+    },
+    {
+        "id": "188",
+        "question_id": "5846",
+        "theory_id": "71"
+    },
+    {
+        "id": "189",
+        "question_id": "5849",
+        "theory_id": "71"
+    },
+    {
+        "id": "190",
+        "question_id": "5850",
+        "theory_id": "71"
+    },
+    {
+        "id": "191",
+        "question_id": "5847",
+        "theory_id": "71"
+    },
+    {
+        "id": "192",
+        "question_id": "5848",
+        "theory_id": "71"
+    },
+    {
+        "id": "193",
+        "question_id": "5853",
+        "theory_id": "71"
+    },
+    {
+        "id": "196",
+        "question_id": "5817",
+        "theory_id": "71"
+    },
+    {
+        "id": "198",
+        "question_id": "5854",
+        "theory_id": "71"
+    },
+    {
+        "id": "199",
+        "question_id": "5856",
+        "theory_id": "72"
+    },
+    {
+        "id": "200",
+        "question_id": "5857",
+        "theory_id": "71"
+    },
+    {
+        "id": "201",
+        "question_id": "5858",
+        "theory_id": "71"
+    },
+    {
+        "id": "202",
+        "question_id": "5859",
+        "theory_id": "74"
+    },
+    {
+        "id": "203",
+        "question_id": "5860",
+        "theory_id": "71"
+    },
+    {
+        "id": "204",
+        "question_id": "5861",
+        "theory_id": "72"
+    },
+    {
+        "id": "205",
+        "question_id": "5862",
+        "theory_id": "72"
+    },
+    {
+        "id": "206",
+        "question_id": "5863",
+        "theory_id": "74"
+    },
+    {
+        "id": "207",
+        "question_id": "5864",
+        "theory_id": "72"
+    },
+    {
+        "id": "208",
+        "question_id": "5865",
+        "theory_id": "72"
+    },
+    {
+        "id": "210",
+        "question_id": "5866",
+        "theory_id": "71"
+    },
+    {
+        "id": "211",
+        "question_id": "5867",
+        "theory_id": "72"
+    },
+    {
+        "id": "212",
+        "question_id": "5868",
+        "theory_id": "72"
+    },
+    {
+        "id": "213",
+        "question_id": "5870",
+        "theory_id": "73"
+    },
+    {
+        "id": "214",
+        "question_id": "5871",
+        "theory_id": "73"
+    },
+    {
+        "id": "215",
+        "question_id": "5872",
+        "theory_id": "73"
+    },
+    {
+        "id": "216",
+        "question_id": "5875",
+        "theory_id": "73"
+    },
+    {
+        "id": "217",
+        "question_id": "5876",
+        "theory_id": "73"
+    },
+    {
+        "id": "218",
+        "question_id": "5877",
+        "theory_id": "73"
+    },
+    {
+        "id": "219",
+        "question_id": "5878",
+        "theory_id": "73"
+    },
+    {
+        "id": "220",
+        "question_id": "5882",
+        "theory_id": "71"
+    },
+    {
+        "id": "221",
+        "question_id": "5882",
+        "theory_id": "72"
+    },
+    {
+        "id": "222",
+        "question_id": "5883",
+        "theory_id": "72"
+    },
+    {
+        "id": "223",
+        "question_id": "5884",
+        "theory_id": "73"
+    },
+    {
+        "id": "224",
+        "question_id": "5885",
+        "theory_id": "73"
+    },
+    {
+        "id": "225",
+        "question_id": "5886",
+        "theory_id": "73"
+    },
+    {
+        "id": "226",
+        "question_id": "5887",
+        "theory_id": "71"
+    },
+    {
+        "id": "227",
+        "question_id": "5888",
+        "theory_id": "73"
+    },
+    {
+        "id": "228",
+        "question_id": "5889",
+        "theory_id": "71"
+    },
+    {
+        "id": "229",
+        "question_id": "5890",
+        "theory_id": "72"
+    },
+    {
+        "id": "231",
+        "question_id": "6351",
+        "theory_id": "63"
+    },
+    {
+        "id": "233",
+        "question_id": "6352",
+        "theory_id": "63"
+    },
+    {
+        "id": "235",
+        "question_id": "6353",
+        "theory_id": "63"
+    },
+    {
+        "id": "239",
+        "question_id": "6355",
+        "theory_id": "63"
+    },
+    {
+        "id": "241",
+        "question_id": "6356",
+        "theory_id": "63"
+    },
+    {
+        "id": "243",
+        "question_id": "6357",
+        "theory_id": "63"
+    },
+    {
+        "id": "246",
+        "question_id": "6366",
+        "theory_id": "63"
+    },
+    {
+        "id": "249",
+        "question_id": "6361",
+        "theory_id": "63"
+    },
+    {
+        "id": "250",
+        "question_id": "6354",
+        "theory_id": "63"
+    },
+    {
+        "id": "252",
+        "question_id": "2475",
+        "theory_id": "37"
+    },
+    {
+        "id": "253",
+        "question_id": "6449",
+        "theory_id": "75"
+    },
+    {
+        "id": "254",
+        "question_id": "375",
+        "theory_id": "76"
+    },
+    {
+        "id": "255",
+        "question_id": "374",
+        "theory_id": "76"
+    },
+    {
+        "id": "256",
+        "question_id": "373",
+        "theory_id": "76"
+    },
+    {
+        "id": "258",
+        "question_id": "6453",
+        "theory_id": "76"
+    },
+    {
+        "id": "260",
+        "question_id": "6471",
+        "theory_id": "75"
+    },
+    {
+        "id": "262",
+        "question_id": "6473",
+        "theory_id": "75"
+    },
+    {
+        "id": "263",
+        "question_id": "6491",
+        "theory_id": "75"
+    },
+    {
+        "id": "266",
+        "question_id": "6502",
+        "theory_id": "75"
+    },
+    {
+        "id": "267",
+        "question_id": "6503",
+        "theory_id": "75"
+    },
+    {
+        "id": "269",
+        "question_id": "6501",
+        "theory_id": "75"
+    },
+    {
+        "id": "270",
+        "question_id": "6509",
+        "theory_id": "75"
+    },
+    {
+        "id": "272",
+        "question_id": "6510",
+        "theory_id": "75"
+    },
+    {
+        "id": "278",
+        "question_id": "439",
+        "theory_id": "75"
+    },
+    {
+        "id": "279",
+        "question_id": "440",
+        "theory_id": "75"
+    },
+    {
+        "id": "280",
+        "question_id": "440",
+        "theory_id": "76"
+    },
+    {
+        "id": "281",
+        "question_id": "6516",
+        "theory_id": "77"
+    },
+    {
+        "id": "283",
+        "question_id": "6517",
+        "theory_id": "77"
+    },
+    {
+        "id": "284",
+        "question_id": "6517",
+        "theory_id": "75"
+    },
+    {
+        "id": "286",
+        "question_id": "6518",
+        "theory_id": "77"
+    },
+    {
+        "id": "288",
+        "question_id": "6519",
+        "theory_id": "77"
+    },
+    {
+        "id": "291",
+        "question_id": "6520",
+        "theory_id": "76"
+    },
+    {
+        "id": "294",
+        "question_id": "6521",
+        "theory_id": "76"
+    },
+    {
+        "id": "295",
+        "question_id": "6521",
+        "theory_id": "77"
+    },
+    {
+        "id": "296",
+        "question_id": "6522",
+        "theory_id": "76"
+    },
+    {
+        "id": "297",
+        "question_id": "6522",
+        "theory_id": "77"
+    },
+    {
+        "id": "300",
+        "question_id": "6523",
+        "theory_id": "75"
+    },
+    {
+        "id": "301",
+        "question_id": "6523",
+        "theory_id": "77"
+    },
+    {
+        "id": "302",
+        "question_id": "6524",
+        "theory_id": "75"
+    },
+    {
+        "id": "303",
+        "question_id": "6524",
+        "theory_id": "77"
+    },
+    {
+        "id": "304",
+        "question_id": "6525",
+        "theory_id": "77"
+    },
+    {
+        "id": "305",
+        "question_id": "6525",
+        "theory_id": "75"
+    },
+    {
+        "id": "306",
+        "question_id": "6526",
+        "theory_id": "76"
+    },
+    {
+        "id": "307",
+        "question_id": "6526",
+        "theory_id": "77"
+    },
+    {
+        "id": "308",
+        "question_id": "6527",
+        "theory_id": "77"
+    },
+    {
+        "id": "309",
+        "question_id": "6528",
+        "theory_id": "77"
+    },
+    {
+        "id": "310",
+        "question_id": "6528",
+        "theory_id": "76"
+    },
+    {
+        "id": "311",
+        "question_id": "6529",
+        "theory_id": "76"
+    },
+    {
+        "id": "312",
+        "question_id": "6529",
+        "theory_id": "77"
+    },
+    {
+        "id": "313",
+        "question_id": "6530",
+        "theory_id": "76"
+    },
+    {
+        "id": "314",
+        "question_id": "6530",
+        "theory_id": "77"
+    },
+    {
+        "id": "315",
+        "question_id": "6531",
+        "theory_id": "76"
+    },
+    {
+        "id": "316",
+        "question_id": "6531",
+        "theory_id": "77"
+    },
+    {
+        "id": "321",
+        "question_id": "6532",
+        "theory_id": "75"
+    },
+    {
+        "id": "322",
+        "question_id": "6532",
+        "theory_id": "77"
+    },
+    {
+        "id": "323",
+        "question_id": "6533",
+        "theory_id": "78"
+    },
+    {
+        "id": "326",
+        "question_id": "6535",
+        "theory_id": "78"
+    },
+    {
+        "id": "327",
+        "question_id": "6536",
+        "theory_id": "78"
+    },
+    {
+        "id": "328",
+        "question_id": "6537",
+        "theory_id": "78"
+    },
+    {
+        "id": "329",
+        "question_id": "6534",
+        "theory_id": "78"
+    },
+    {
+        "id": "330",
+        "question_id": "6539",
+        "theory_id": "78"
+    },
+    {
+        "id": "331",
+        "question_id": "6542",
+        "theory_id": "78"
+    },
+    {
+        "id": "333",
+        "question_id": "6543",
+        "theory_id": "78"
+    },
+    {
+        "id": "335",
+        "question_id": "6544",
+        "theory_id": "78"
+    },
+    {
+        "id": "337",
+        "question_id": "6545",
+        "theory_id": "78"
+    },
+    {
+        "id": "338",
+        "question_id": "6546",
+        "theory_id": "78"
+    },
+    {
+        "id": "339",
+        "question_id": "6547",
+        "theory_id": "79"
+    },
+    {
+        "id": "340",
+        "question_id": "6548",
+        "theory_id": "79"
+    },
+    {
+        "id": "341",
+        "question_id": "6549",
+        "theory_id": "79"
+    },
+    {
+        "id": "342",
+        "question_id": "6550",
+        "theory_id": "79"
+    },
+    {
+        "id": "344",
+        "question_id": "6551",
+        "theory_id": "80"
+    },
+    {
+        "id": "345",
+        "question_id": "6552",
+        "theory_id": "80"
+    },
+    {
+        "id": "346",
+        "question_id": "6553",
+        "theory_id": "80"
+    },
+    {
+        "id": "347",
+        "question_id": "6555",
+        "theory_id": "80"
+    },
+    {
+        "id": "348",
+        "question_id": "6556",
+        "theory_id": "80"
+    },
+    {
+        "id": "349",
+        "question_id": "6557",
+        "theory_id": "79"
+    },
+    {
+        "id": "350",
+        "question_id": "6558",
+        "theory_id": "80"
+    },
+    {
+        "id": "351",
+        "question_id": "6559",
+        "theory_id": "80"
+    },
+    {
+        "id": "353",
+        "question_id": "6562",
+        "theory_id": "80"
+    },
+    {
+        "id": "354",
+        "question_id": "6639",
+        "theory_id": "75"
+    },
+    {
+        "id": "355",
+        "question_id": "6640",
+        "theory_id": "75"
+    },
+    {
+        "id": "356",
+        "question_id": "2741",
+        "theory_id": "64"
+    },
+    {
+        "id": "357",
+        "question_id": "2752",
+        "theory_id": "64"
+    },
+    {
+        "id": "359",
+        "question_id": "6704",
+        "theory_id": "81"
+    },
+    {
+        "id": "363",
+        "question_id": "6706",
+        "theory_id": "82"
+    },
+    {
+        "id": "364",
+        "question_id": "6707",
+        "theory_id": "81"
+    },
+    {
+        "id": "365",
+        "question_id": "6708",
+        "theory_id": "81"
+    },
+    {
+        "id": "366",
+        "question_id": "6709",
+        "theory_id": "81"
+    },
+    {
+        "id": "368",
+        "question_id": "6710",
+        "theory_id": "82"
+    },
+    {
+        "id": "370",
+        "question_id": "6711",
+        "theory_id": "82"
+    },
+    {
+        "id": "372",
+        "question_id": "6712",
+        "theory_id": "82"
+    },
+    {
+        "id": "374",
+        "question_id": "6713",
+        "theory_id": "81"
+    },
+    {
+        "id": "377",
+        "question_id": "6729",
+        "theory_id": "83"
+    },
+    {
+        "id": "378",
+        "question_id": "6730",
+        "theory_id": "83"
+    },
+    {
+        "id": "379",
+        "question_id": "6731",
+        "theory_id": "83"
+    },
+    {
+        "id": "381",
+        "question_id": "6732",
+        "theory_id": "83"
+    },
+    {
+        "id": "382",
+        "question_id": "6733",
+        "theory_id": "83"
+    },
+    {
+        "id": "384",
+        "question_id": "6760",
+        "theory_id": "83"
+    },
+    {
+        "id": "385",
+        "question_id": "6705",
+        "theory_id": "81"
+    },
+    {
+        "id": "386",
+        "question_id": "6861",
+        "theory_id": "85"
+    },
+    {
+        "id": "389",
+        "question_id": "6862",
+        "theory_id": "85"
+    },
+    {
+        "id": "390",
+        "question_id": "6863",
+        "theory_id": "85"
+    },
+    {
+        "id": "391",
+        "question_id": "6864",
+        "theory_id": "85"
+    },
+    {
+        "id": "393",
+        "question_id": "6865",
+        "theory_id": "85"
+    },
+    {
+        "id": "394",
+        "question_id": "6866",
+        "theory_id": "85"
+    },
+    {
+        "id": "395",
+        "question_id": "6867",
+        "theory_id": "85"
+    },
+    {
+        "id": "397",
+        "question_id": "6868",
+        "theory_id": "85"
+    },
+    {
+        "id": "399",
+        "question_id": "6869",
+        "theory_id": "85"
+    },
+    {
+        "id": "400",
+        "question_id": "6870",
+        "theory_id": "85"
+    },
+    {
+        "id": "402",
+        "question_id": "6871",
+        "theory_id": "85"
+    },
+    {
+        "id": "403",
+        "question_id": "6872",
+        "theory_id": "85"
+    },
+    {
+        "id": "405",
+        "question_id": "6886",
+        "theory_id": "85"
+    },
+    {
+        "id": "408",
+        "question_id": "6888",
+        "theory_id": "86"
+    },
+    {
+        "id": "409",
+        "question_id": "6889",
+        "theory_id": "86"
+    },
+    {
+        "id": "411",
+        "question_id": "6891",
+        "theory_id": "86"
+    },
+    {
+        "id": "412",
+        "question_id": "6890",
+        "theory_id": "86"
+    },
+    {
+        "id": "413",
+        "question_id": "6892",
+        "theory_id": "86"
+    },
+    {
+        "id": "414",
+        "question_id": "6893",
+        "theory_id": "86"
+    },
+    {
+        "id": "415",
+        "question_id": "6894",
+        "theory_id": "86"
+    },
+    {
+        "id": "416",
+        "question_id": "6895",
+        "theory_id": "86"
+    },
+    {
+        "id": "417",
+        "question_id": "6896",
+        "theory_id": "86"
+    },
+    {
+        "id": "419",
+        "question_id": "6897",
+        "theory_id": "86"
+    },
+    {
+        "id": "421",
+        "question_id": "6898",
+        "theory_id": "86"
+    },
+    {
+        "id": "422",
+        "question_id": "6899",
+        "theory_id": "86"
+    },
+    {
+        "id": "423",
+        "question_id": "6900",
+        "theory_id": "86"
+    },
+    {
+        "id": "425",
+        "question_id": "6901",
+        "theory_id": "86"
+    },
+    {
+        "id": "426",
+        "question_id": "6902",
+        "theory_id": "86"
+    },
+    {
+        "id": "428",
+        "question_id": "7062",
+        "theory_id": "87"
+    },
+    {
+        "id": "429",
+        "question_id": "7063",
+        "theory_id": "87"
+    },
+    {
+        "id": "431",
+        "question_id": "7064",
+        "theory_id": "87"
+    },
+    {
+        "id": "435",
+        "question_id": "7065",
+        "theory_id": "87"
+    },
+    {
+        "id": "436",
+        "question_id": "7066",
+        "theory_id": "87"
+    },
+    {
+        "id": "438",
+        "question_id": "7067",
+        "theory_id": "87"
+    },
+    {
+        "id": "441",
+        "question_id": "7068",
+        "theory_id": "87"
+    },
+    {
+        "id": "442",
+        "question_id": "7069",
+        "theory_id": "87"
+    },
+    {
+        "id": "443",
+        "question_id": "7070",
+        "theory_id": "87"
+    },
+    {
+        "id": "444",
+        "question_id": "7071",
+        "theory_id": "87"
+    },
+    {
+        "id": "446",
+        "question_id": "7072",
+        "theory_id": "87"
+    },
+    {
+        "id": "447",
+        "question_id": "7073",
+        "theory_id": "87"
+    },
+    {
+        "id": "448",
+        "question_id": "7076",
+        "theory_id": "87"
+    },
+    {
+        "id": "449",
+        "question_id": "7077",
+        "theory_id": "87"
+    },
+    {
+        "id": "451",
+        "question_id": "7078",
+        "theory_id": "87"
+    },
+    {
+        "id": "453",
+        "question_id": "7079",
+        "theory_id": "87"
+    },
+    {
+        "id": "456",
+        "question_id": "7080",
+        "theory_id": "87"
+    },
+    {
+        "id": "457",
+        "question_id": "7081",
+        "theory_id": "87"
+    },
+    {
+        "id": "458",
+        "question_id": "7082",
+        "theory_id": "87"
+    },
+    {
+        "id": "460",
+        "question_id": "7083",
+        "theory_id": "87"
+    },
+    {
+        "id": "461",
+        "question_id": "7084",
+        "theory_id": "87"
+    },
+    {
+        "id": "463",
+        "question_id": "7085",
+        "theory_id": "87"
+    },
+    {
+        "id": "464",
+        "question_id": "7086",
+        "theory_id": "87"
+    },
+    {
+        "id": "465",
+        "question_id": "7180",
+        "theory_id": "87"
+    },
+    {
+        "id": "466",
+        "question_id": "7181",
+        "theory_id": "87"
+    },
+    {
+        "id": "467",
+        "question_id": "7301",
+        "theory_id": "41"
+    },
+    {
+        "id": "468",
+        "question_id": "7323",
+        "theory_id": "63"
+    },
+    {
+        "id": "469",
+        "question_id": "7373",
+        "theory_id": "74"
+    },
+    {
+        "id": "471",
+        "question_id": "7376",
+        "theory_id": "73"
+    },
+    {
+        "id": "472",
+        "question_id": "7377",
+        "theory_id": "72"
+    },
+    {
+        "id": "475",
+        "question_id": "7378",
+        "theory_id": "71"
+    },
+    {
+        "id": "476",
+        "question_id": "7378",
+        "theory_id": "88"
+    },
+    {
+        "id": "477",
+        "question_id": "7381",
+        "theory_id": "88"
+    },
+    {
+        "id": "478",
+        "question_id": "7382",
+        "theory_id": "88"
+    },
+    {
+        "id": "479",
+        "question_id": "7383",
+        "theory_id": "88"
+    },
+    {
+        "id": "481",
+        "question_id": "7386",
+        "theory_id": "71"
+    },
+    {
+        "id": "482",
+        "question_id": "7387",
+        "theory_id": "71"
+    },
+    {
+        "id": "483",
+        "question_id": "7388",
+        "theory_id": "71"
+    },
+    {
+        "id": "484",
+        "question_id": "7389",
+        "theory_id": "72"
+    },
+    {
+        "id": "485",
+        "question_id": "7392",
+        "theory_id": "73"
+    },
+    {
+        "id": "487",
+        "question_id": "7393",
+        "theory_id": "73"
+    },
+    {
+        "id": "488",
+        "question_id": "7395",
+        "theory_id": "73"
+    },
+    {
+        "id": "489",
+        "question_id": "7396",
+        "theory_id": "72"
+    },
+    {
+        "id": "490",
+        "question_id": "7402",
+        "theory_id": "74"
+    },
+    {
+        "id": "491",
+        "question_id": "7375",
+        "theory_id": "88"
+    },
+    {
+        "id": "492",
+        "question_id": "7271",
+        "theory_id": "89"
+    },
+    {
+        "id": "494",
+        "question_id": "7270",
+        "theory_id": "89"
+    },
+    {
+        "id": "496",
+        "question_id": "7268",
+        "theory_id": "89"
+    },
+    {
+        "id": "497",
+        "question_id": "7267",
+        "theory_id": "89"
+    },
+    {
+        "id": "498",
+        "question_id": "7266",
+        "theory_id": "89"
+    },
+    {
+        "id": "499",
+        "question_id": "7265",
+        "theory_id": "90"
+    },
+    {
+        "id": "500",
+        "question_id": "7264",
+        "theory_id": "90"
+    },
+    {
+        "id": "501",
+        "question_id": "7263",
+        "theory_id": "90"
+    },
+    {
+        "id": "502",
+        "question_id": "7261",
+        "theory_id": "90"
+    },
+    {
+        "id": "503",
+        "question_id": "7260",
+        "theory_id": "90"
+    },
+    {
+        "id": "504",
+        "question_id": "7222",
+        "theory_id": "90"
+    },
+    {
+        "id": "505",
+        "question_id": "7221",
+        "theory_id": "90"
+    },
+    {
+        "id": "507",
+        "question_id": "7438",
+        "theory_id": "61"
+    },
+    {
+        "id": "508",
+        "question_id": "7439",
+        "theory_id": "41"
+    },
+    {
+        "id": "509",
+        "question_id": "7440",
+        "theory_id": "41"
+    },
+    {
+        "id": "510",
+        "question_id": "7471",
+        "theory_id": "63"
+    },
+    {
+        "id": "511",
+        "question_id": "7492",
+        "theory_id": "37"
+    },
+    {
+        "id": "512",
+        "question_id": "7492",
+        "theory_id": "36"
+    },
+    {
+        "id": "513",
+        "question_id": "7502",
+        "theory_id": "72"
+    },
+    {
+        "id": "514",
+        "question_id": "7501",
+        "theory_id": "72"
+    },
+    {
+        "id": "515",
+        "question_id": "7505",
+        "theory_id": "72"
+    },
+    {
+        "id": "516",
+        "question_id": "7506",
+        "theory_id": "72"
+    },
+    {
+        "id": "517",
+        "question_id": "7508",
+        "theory_id": "72"
+    },
+    {
+        "id": "518",
+        "question_id": "7507",
+        "theory_id": "72"
+    },
+    {
+        "id": "519",
+        "question_id": "7509",
+        "theory_id": "72"
+    },
+    {
+        "id": "520",
+        "question_id": "7510",
+        "theory_id": "88"
+    },
+    {
+        "id": "521",
+        "question_id": "7523",
+        "theory_id": "88"
+    },
+    {
+        "id": "522",
+        "question_id": "7524",
+        "theory_id": "88"
+    },
+    {
+        "id": "523",
+        "question_id": "7525",
+        "theory_id": "88"
+    },
+    {
+        "id": "524",
+        "question_id": "7528",
+        "theory_id": "88"
+    },
+    {
+        "id": "526",
+        "question_id": "7529",
+        "theory_id": "71"
+    },
+    {
+        "id": "527",
+        "question_id": "7531",
+        "theory_id": "73"
+    },
+    {
+        "id": "528",
+        "question_id": "7532",
+        "theory_id": "88"
+    },
+    {
+        "id": "529",
+        "question_id": "7534",
+        "theory_id": "73"
+    },
+    {
+        "id": "530",
+        "question_id": "7539",
+        "theory_id": "88"
+    },
+    {
+        "id": "531",
+        "question_id": "7622",
+        "theory_id": "64"
+    },
+    {
+        "id": "532",
+        "question_id": "7640",
+        "theory_id": "91"
+    },
+    {
+        "id": "533",
+        "question_id": "7641",
+        "theory_id": "91"
+    },
+    {
+        "id": "534",
+        "question_id": "7642",
+        "theory_id": "91"
+    },
+    {
+        "id": "535",
+        "question_id": "7643",
+        "theory_id": "91"
+    },
+    {
+        "id": "536",
+        "question_id": "7644",
+        "theory_id": "91"
+    },
+    {
+        "id": "537",
+        "question_id": "7645",
+        "theory_id": "91"
+    },
+    {
+        "id": "538",
+        "question_id": "7646",
+        "theory_id": "91"
+    },
+    {
+        "id": "539",
+        "question_id": "7647",
+        "theory_id": "91"
+    },
+    {
+        "id": "540",
+        "question_id": "7648",
+        "theory_id": "91"
+    },
+    {
+        "id": "541",
+        "question_id": "7649",
+        "theory_id": "91"
+    },
+    {
+        "id": "543",
+        "question_id": "7650",
+        "theory_id": "90"
+    },
+    {
+        "id": "544",
+        "question_id": "7651",
+        "theory_id": "90"
+    },
+    {
+        "id": "547",
+        "question_id": "7652",
+        "theory_id": "90"
+    },
+    {
+        "id": "548",
+        "question_id": "7653",
+        "theory_id": "90"
+    },
+    {
+        "id": "549",
+        "question_id": "7654",
+        "theory_id": "90"
+    },
+    {
+        "id": "550",
+        "question_id": "7655",
+        "theory_id": "90"
+    },
+    {
+        "id": "551",
+        "question_id": "7656",
+        "theory_id": "52"
+    },
+    {
+        "id": "553",
+        "question_id": "7657",
+        "theory_id": "22"
+    },
+    {
+        "id": "554",
+        "question_id": "7657",
+        "theory_id": "23"
+    },
+    {
+        "id": "555",
+        "question_id": "7659",
+        "theory_id": "89"
+    },
+    {
+        "id": "557",
+        "question_id": "7663",
+        "theory_id": "22"
+    },
+    {
+        "id": "558",
+        "question_id": "7663",
+        "theory_id": "29"
+    },
+    {
+        "id": "559",
+        "question_id": "7663",
+        "theory_id": "46"
+    },
+    {
+        "id": "560",
+        "question_id": "7660",
+        "theory_id": "52"
+    },
+    {
+        "id": "561",
+        "question_id": "7660",
+        "theory_id": "29"
+    },
+    {
+        "id": "563",
+        "question_id": "7664",
+        "theory_id": "89"
+    },
+    {
+        "id": "564",
+        "question_id": "7665",
+        "theory_id": "92"
+    },
+    {
+        "id": "565",
+        "question_id": "7668",
+        "theory_id": "92"
+    },
+    {
+        "id": "566",
+        "question_id": "7670",
+        "theory_id": "92"
+    },
+    {
+        "id": "567",
+        "question_id": "7672",
+        "theory_id": "92"
+    },
+    {
+        "id": "568",
+        "question_id": "7671",
+        "theory_id": "92"
+    },
+    {
+        "id": "569",
+        "question_id": "7677",
+        "theory_id": "63"
+    },
+    {
+        "id": "570",
+        "question_id": "7692",
+        "theory_id": "41"
+    },
+    {
+        "id": "571",
+        "question_id": "7693",
+        "theory_id": "41"
+    },
+    {
+        "id": "572",
+        "question_id": "7701",
+        "theory_id": "34"
+    },
+    {
+        "id": "573",
+        "question_id": "7701",
+        "theory_id": "32"
+    },
+    {
+        "id": "574",
+        "question_id": "7701",
+        "theory_id": "35"
+    },
+    {
+        "id": "575",
+        "question_id": "7753",
+        "theory_id": "63"
+    },
+    {
+        "id": "576",
+        "question_id": "7785",
+        "theory_id": "72"
+    },
+    {
+        "id": "577",
+        "question_id": "7785",
+        "theory_id": "71"
+    },
+    {
+        "id": "578",
+        "question_id": "7795",
+        "theory_id": "73"
+    },
+    {
+        "id": "579",
+        "question_id": "7796",
+        "theory_id": "73"
+    },
+    {
+        "id": "581",
+        "question_id": "7819",
+        "theory_id": "88"
+    },
+    {
+        "id": "582",
+        "question_id": "7820",
+        "theory_id": "88"
+    },
+    {
+        "id": "583",
+        "question_id": "7821",
+        "theory_id": "88"
+    },
+    {
+        "id": "584",
+        "question_id": "7822",
+        "theory_id": "88"
+    },
+    {
+        "id": "585",
+        "question_id": "7823",
+        "theory_id": "88"
+    },
+    {
+        "id": "586",
+        "question_id": "7824",
+        "theory_id": "88"
+    },
+    {
+        "id": "587",
+        "question_id": "7825",
+        "theory_id": "88"
+    },
+    {
+        "id": "589",
+        "question_id": "7848",
+        "theory_id": "74"
+    }
+]

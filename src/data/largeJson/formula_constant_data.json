@@ -1,0 +1,867 @@
+[
+    {
+        "id": "24",
+        "formula_id": "291",
+        "constant_id": "3"
+    },
+    {
+        "id": "25",
+        "formula_id": "317",
+        "constant_id": "3"
+    },
+    {
+        "id": "26",
+        "formula_id": "317",
+        "constant_id": "4"
+    },
+    {
+        "id": "27",
+        "formula_id": "291",
+        "constant_id": "4"
+    },
+    {
+        "id": "28",
+        "formula_id": "317",
+        "constant_id": "24"
+    },
+    {
+        "id": "31",
+        "formula_id": "317",
+        "constant_id": "33"
+    },
+    {
+        "id": "34",
+        "formula_id": "319",
+        "constant_id": "33"
+    },
+    {
+        "id": "35",
+        "formula_id": "320",
+        "constant_id": "33"
+    },
+    {
+        "id": "36",
+        "formula_id": "362",
+        "constant_id": "33"
+    },
+    {
+        "id": "37",
+        "formula_id": "316",
+        "constant_id": "33"
+    },
+    {
+        "id": "41",
+        "formula_id": "840",
+        "constant_id": "47"
+    },
+    {
+        "id": "42",
+        "formula_id": "841",
+        "constant_id": "47"
+    },
+    {
+        "id": "43",
+        "formula_id": "126",
+        "constant_id": "48"
+    },
+    {
+        "id": "46",
+        "formula_id": "134",
+        "constant_id": "49"
+    },
+    {
+        "id": "47",
+        "formula_id": "867",
+        "constant_id": "50"
+    },
+    {
+        "id": "48",
+        "formula_id": "866",
+        "constant_id": "50"
+    },
+    {
+        "id": "49",
+        "formula_id": "132",
+        "constant_id": "50"
+    },
+    {
+        "id": "50",
+        "formula_id": "318",
+        "constant_id": "50"
+    },
+    {
+        "id": "51",
+        "formula_id": "319",
+        "constant_id": "50"
+    },
+    {
+        "id": "52",
+        "formula_id": "320",
+        "constant_id": "50"
+    },
+    {
+        "id": "53",
+        "formula_id": "362",
+        "constant_id": "50"
+    },
+    {
+        "id": "77",
+        "formula_id": "75",
+        "constant_id": "52"
+    },
+    {
+        "id": "84",
+        "formula_id": "43",
+        "constant_id": "2"
+    },
+    {
+        "id": "85",
+        "formula_id": "63",
+        "constant_id": "2"
+    },
+    {
+        "id": "86",
+        "formula_id": "67",
+        "constant_id": "2"
+    },
+    {
+        "id": "87",
+        "formula_id": "69",
+        "constant_id": "2"
+    },
+    {
+        "id": "88",
+        "formula_id": "70",
+        "constant_id": "2"
+    },
+    {
+        "id": "89",
+        "formula_id": "71",
+        "constant_id": "2"
+    },
+    {
+        "id": "90",
+        "formula_id": "72",
+        "constant_id": "2"
+    },
+    {
+        "id": "91",
+        "formula_id": "73",
+        "constant_id": "2"
+    },
+    {
+        "id": "92",
+        "formula_id": "291",
+        "constant_id": "2"
+    },
+    {
+        "id": "93",
+        "formula_id": "305",
+        "constant_id": "2"
+    },
+    {
+        "id": "94",
+        "formula_id": "317",
+        "constant_id": "2"
+    },
+    {
+        "id": "96",
+        "formula_id": "843",
+        "constant_id": "2"
+    },
+    {
+        "id": "97",
+        "formula_id": "844",
+        "constant_id": "2"
+    },
+    {
+        "id": "98",
+        "formula_id": "846",
+        "constant_id": "2"
+    },
+    {
+        "id": "99",
+        "formula_id": "851",
+        "constant_id": "2"
+    },
+    {
+        "id": "100",
+        "formula_id": "891",
+        "constant_id": "2"
+    },
+    {
+        "id": "101",
+        "formula_id": "876",
+        "constant_id": "53"
+    },
+    {
+        "id": "102",
+        "formula_id": "78",
+        "constant_id": "53"
+    },
+    {
+        "id": "103",
+        "formula_id": "84",
+        "constant_id": "53"
+    },
+    {
+        "id": "104",
+        "formula_id": "140",
+        "constant_id": "55"
+    },
+    {
+        "id": "105",
+        "formula_id": "911",
+        "constant_id": "55"
+    },
+    {
+        "id": "106",
+        "formula_id": "912",
+        "constant_id": "55"
+    },
+    {
+        "id": "107",
+        "formula_id": "178",
+        "constant_id": "55"
+    },
+    {
+        "id": "108",
+        "formula_id": "179",
+        "constant_id": "55"
+    },
+    {
+        "id": "109",
+        "formula_id": "193",
+        "constant_id": "55"
+    },
+    {
+        "id": "111",
+        "formula_id": "851",
+        "constant_id": "69"
+    },
+    {
+        "id": "113",
+        "formula_id": "639",
+        "constant_id": "68"
+    },
+    {
+        "id": "116",
+        "formula_id": "519",
+        "constant_id": "67"
+    },
+    {
+        "id": "117",
+        "formula_id": "520",
+        "constant_id": "67"
+    },
+    {
+        "id": "118",
+        "formula_id": "521",
+        "constant_id": "67"
+    },
+    {
+        "id": "119",
+        "formula_id": "522",
+        "constant_id": "67"
+    },
+    {
+        "id": "120",
+        "formula_id": "528",
+        "constant_id": "67"
+    },
+    {
+        "id": "121",
+        "formula_id": "850",
+        "constant_id": "66"
+    },
+    {
+        "id": "142",
+        "formula_id": "100",
+        "constant_id": "61"
+    },
+    {
+        "id": "145",
+        "formula_id": "573",
+        "constant_id": "64"
+    },
+    {
+        "id": "146",
+        "formula_id": "574",
+        "constant_id": "64"
+    },
+    {
+        "id": "147",
+        "formula_id": "572",
+        "constant_id": "64"
+    },
+    {
+        "id": "148",
+        "formula_id": "582",
+        "constant_id": "64"
+    },
+    {
+        "id": "149",
+        "formula_id": "568",
+        "constant_id": "64"
+    },
+    {
+        "id": "150",
+        "formula_id": "569",
+        "constant_id": "64"
+    },
+    {
+        "id": "151",
+        "formula_id": "566",
+        "constant_id": "64"
+    },
+    {
+        "id": "152",
+        "formula_id": "567",
+        "constant_id": "64"
+    },
+    {
+        "id": "153",
+        "formula_id": "559",
+        "constant_id": "64"
+    },
+    {
+        "id": "154",
+        "formula_id": "581",
+        "constant_id": "64"
+    },
+    {
+        "id": "155",
+        "formula_id": "177",
+        "constant_id": "64"
+    },
+    {
+        "id": "156",
+        "formula_id": "532",
+        "constant_id": "64"
+    },
+    {
+        "id": "158",
+        "formula_id": "535",
+        "constant_id": "64"
+    },
+    {
+        "id": "159",
+        "formula_id": "536",
+        "constant_id": "64"
+    },
+    {
+        "id": "160",
+        "formula_id": "150",
+        "constant_id": "62"
+    },
+    {
+        "id": "161",
+        "formula_id": "202",
+        "constant_id": "62"
+    },
+    {
+        "id": "162",
+        "formula_id": "203",
+        "constant_id": "62"
+    },
+    {
+        "id": "163",
+        "formula_id": "207",
+        "constant_id": "62"
+    },
+    {
+        "id": "164",
+        "formula_id": "243",
+        "constant_id": "62"
+    },
+    {
+        "id": "165",
+        "formula_id": "247",
+        "constant_id": "62"
+    },
+    {
+        "id": "166",
+        "formula_id": "532",
+        "constant_id": "62"
+    },
+    {
+        "id": "168",
+        "formula_id": "535",
+        "constant_id": "62"
+    },
+    {
+        "id": "169",
+        "formula_id": "536",
+        "constant_id": "62"
+    },
+    {
+        "id": "170",
+        "formula_id": "568",
+        "constant_id": "62"
+    },
+    {
+        "id": "171",
+        "formula_id": "569",
+        "constant_id": "62"
+    },
+    {
+        "id": "172",
+        "formula_id": "573",
+        "constant_id": "62"
+    },
+    {
+        "id": "173",
+        "formula_id": "574",
+        "constant_id": "62"
+    },
+    {
+        "id": "174",
+        "formula_id": "591",
+        "constant_id": "62"
+    },
+    {
+        "id": "175",
+        "formula_id": "592",
+        "constant_id": "62"
+    },
+    {
+        "id": "176",
+        "formula_id": "593",
+        "constant_id": "62"
+    },
+    {
+        "id": "177",
+        "formula_id": "559",
+        "constant_id": "62"
+    },
+    {
+        "id": "178",
+        "formula_id": "560",
+        "constant_id": "62"
+    },
+    {
+        "id": "179",
+        "formula_id": "561",
+        "constant_id": "62"
+    },
+    {
+        "id": "180",
+        "formula_id": "581",
+        "constant_id": "62"
+    },
+    {
+        "id": "181",
+        "formula_id": "896",
+        "constant_id": "63"
+    },
+    {
+        "id": "182",
+        "formula_id": "898",
+        "constant_id": "63"
+    },
+    {
+        "id": "183",
+        "formula_id": "897",
+        "constant_id": "63"
+    },
+    {
+        "id": "184",
+        "formula_id": "153",
+        "constant_id": "63"
+    },
+    {
+        "id": "185",
+        "formula_id": "154",
+        "constant_id": "63"
+    },
+    {
+        "id": "186",
+        "formula_id": "904",
+        "constant_id": "63"
+    },
+    {
+        "id": "187",
+        "formula_id": "155",
+        "constant_id": "63"
+    },
+    {
+        "id": "188",
+        "formula_id": "157",
+        "constant_id": "63"
+    },
+    {
+        "id": "189",
+        "formula_id": "162",
+        "constant_id": "63"
+    },
+    {
+        "id": "190",
+        "formula_id": "400",
+        "constant_id": "63"
+    },
+    {
+        "id": "191",
+        "formula_id": "402",
+        "constant_id": "63"
+    },
+    {
+        "id": "192",
+        "formula_id": "403",
+        "constant_id": "63"
+    },
+    {
+        "id": "193",
+        "formula_id": "404",
+        "constant_id": "63"
+    },
+    {
+        "id": "194",
+        "formula_id": "405",
+        "constant_id": "63"
+    },
+    {
+        "id": "195",
+        "formula_id": "407",
+        "constant_id": "63"
+    },
+    {
+        "id": "196",
+        "formula_id": "408",
+        "constant_id": "63"
+    },
+    {
+        "id": "197",
+        "formula_id": "409",
+        "constant_id": "63"
+    },
+    {
+        "id": "198",
+        "formula_id": "412",
+        "constant_id": "63"
+    },
+    {
+        "id": "199",
+        "formula_id": "515",
+        "constant_id": "63"
+    },
+    {
+        "id": "200",
+        "formula_id": "415",
+        "constant_id": "63"
+    },
+    {
+        "id": "201",
+        "formula_id": "416",
+        "constant_id": "63"
+    },
+    {
+        "id": "202",
+        "formula_id": "417",
+        "constant_id": "63"
+    },
+    {
+        "id": "203",
+        "formula_id": "436",
+        "constant_id": "63"
+    },
+    {
+        "id": "204",
+        "formula_id": "439",
+        "constant_id": "63"
+    },
+    {
+        "id": "205",
+        "formula_id": "420",
+        "constant_id": "63"
+    },
+    {
+        "id": "206",
+        "formula_id": "533",
+        "constant_id": "62"
+    },
+    {
+        "id": "207",
+        "formula_id": "533",
+        "constant_id": "64"
+    },
+    {
+        "id": "208",
+        "formula_id": "535",
+        "constant_id": "65"
+    },
+    {
+        "id": "209",
+        "formula_id": "532",
+        "constant_id": "65"
+    },
+    {
+        "id": "210",
+        "formula_id": "533",
+        "constant_id": "65"
+    },
+    {
+        "id": "211",
+        "formula_id": "116",
+        "constant_id": "60"
+    },
+    {
+        "id": "212",
+        "formula_id": "118",
+        "constant_id": "60"
+    },
+    {
+        "id": "213",
+        "formula_id": "876",
+        "constant_id": "59"
+    },
+    {
+        "id": "214",
+        "formula_id": "84",
+        "constant_id": "59"
+    },
+    {
+        "id": "215",
+        "formula_id": "94",
+        "constant_id": "59"
+    },
+    {
+        "id": "217",
+        "formula_id": "893",
+        "constant_id": "59"
+    },
+    {
+        "id": "218",
+        "formula_id": "919",
+        "constant_id": "59"
+    },
+    {
+        "id": "220",
+        "formula_id": "206",
+        "constant_id": "58"
+    },
+    {
+        "id": "221",
+        "formula_id": "207",
+        "constant_id": "58"
+    },
+    {
+        "id": "222",
+        "formula_id": "207",
+        "constant_id": "57"
+    },
+    {
+        "id": "223",
+        "formula_id": "206",
+        "constant_id": "57"
+    },
+    {
+        "id": "225",
+        "formula_id": "818",
+        "constant_id": "57"
+    },
+    {
+        "id": "226",
+        "formula_id": "818",
+        "constant_id": "58"
+    },
+    {
+        "id": "244",
+        "formula_id": "15",
+        "constant_id": "2"
+    },
+    {
+        "id": "245",
+        "formula_id": "16",
+        "constant_id": "2"
+    },
+    {
+        "id": "249",
+        "formula_id": "18",
+        "constant_id": "2"
+    },
+    {
+        "id": "250",
+        "formula_id": "19",
+        "constant_id": "2"
+    },
+    {
+        "id": "251",
+        "formula_id": "826",
+        "constant_id": "2"
+    },
+    {
+        "id": "254",
+        "formula_id": "936",
+        "constant_id": "1"
+    },
+    {
+        "id": "255",
+        "formula_id": "936",
+        "constant_id": "2"
+    },
+    {
+        "id": "256",
+        "formula_id": "17",
+        "constant_id": "2"
+    },
+    {
+        "id": "258",
+        "formula_id": "131",
+        "constant_id": "70"
+    },
+    {
+        "id": "266",
+        "formula_id": "942",
+        "constant_id": "70"
+    },
+    {
+        "id": "267",
+        "formula_id": "853",
+        "constant_id": "70"
+    },
+    {
+        "id": "268",
+        "formula_id": "29",
+        "constant_id": "45"
+    },
+    {
+        "id": "269",
+        "formula_id": "32",
+        "constant_id": "2"
+    },
+    {
+        "id": "282",
+        "formula_id": "30",
+        "constant_id": "24"
+    },
+    {
+        "id": "283",
+        "formula_id": "30",
+        "constant_id": "33"
+    },
+    {
+        "id": "284",
+        "formula_id": "30",
+        "constant_id": "45"
+    },
+    {
+        "id": "285",
+        "formula_id": "31",
+        "constant_id": "24"
+    },
+    {
+        "id": "286",
+        "formula_id": "31",
+        "constant_id": "33"
+    },
+    {
+        "id": "287",
+        "formula_id": "31",
+        "constant_id": "45"
+    },
+    {
+        "id": "288",
+        "formula_id": "943",
+        "constant_id": "33"
+    },
+    {
+        "id": "289",
+        "formula_id": "943",
+        "constant_id": "45"
+    },
+    {
+        "id": "290",
+        "formula_id": "944",
+        "constant_id": "54"
+    },
+    {
+        "id": "291",
+        "formula_id": "944",
+        "constant_id": "56"
+    },
+    {
+        "id": "294",
+        "formula_id": "946",
+        "constant_id": "53"
+    },
+    {
+        "id": "296",
+        "formula_id": "945",
+        "constant_id": "53"
+    },
+    {
+        "id": "298",
+        "formula_id": "76",
+        "constant_id": "51"
+    },
+    {
+        "id": "299",
+        "formula_id": "221",
+        "constant_id": "51"
+    },
+    {
+        "id": "300",
+        "formula_id": "815",
+        "constant_id": "51"
+    },
+    {
+        "id": "304",
+        "formula_id": "947",
+        "constant_id": "53"
+    },
+    {
+        "id": "305",
+        "formula_id": "838",
+        "constant_id": "69"
+    },
+    {
+        "id": "308",
+        "formula_id": "949",
+        "constant_id": "54"
+    },
+    {
+        "id": "309",
+        "formula_id": "949",
+        "constant_id": "56"
+    },
+    {
+        "id": "310",
+        "formula_id": "880",
+        "constant_id": "59"
+    },
+    {
+        "id": "311",
+        "formula_id": "829",
+        "constant_id": "48"
+    },
+    {
+        "id": "312",
+        "formula_id": "114",
+        "constant_id": "61"
+    },
+    {
+        "id": "313",
+        "formula_id": "184",
+        "constant_id": "61"
+    },
+    {
+        "id": "314",
+        "formula_id": "937",
+        "constant_id": "2"
+    },
+    {
+        "id": "315",
+        "formula_id": "961",
+        "constant_id": "69"
+    },
+    {
+        "id": "316",
+        "formula_id": "975",
+        "constant_id": "2"
+    },
+    {
+        "id": "317",
+        "formula_id": "976",
+        "constant_id": "2"
+    }
+]

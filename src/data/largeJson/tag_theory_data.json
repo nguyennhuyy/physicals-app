@@ -1,0 +1,462 @@
+[
+    {
+        "id": "2",
+        "theory_id": "2",
+        "tag_id": "332"
+    },
+    {
+        "id": "4",
+        "theory_id": "1",
+        "tag_id": "332"
+    },
+    {
+        "id": "5",
+        "theory_id": "3",
+        "tag_id": "330"
+    },
+    {
+        "id": "26",
+        "theory_id": "10",
+        "tag_id": "494"
+    },
+    {
+        "id": "27",
+        "theory_id": "11",
+        "tag_id": "494"
+    },
+    {
+        "id": "28",
+        "theory_id": "9",
+        "tag_id": "496"
+    },
+    {
+        "id": "40",
+        "theory_id": "18",
+        "tag_id": "186"
+    },
+    {
+        "id": "41",
+        "theory_id": "17",
+        "tag_id": "502"
+    },
+    {
+        "id": "42",
+        "theory_id": "16",
+        "tag_id": "501"
+    },
+    {
+        "id": "43",
+        "theory_id": "15",
+        "tag_id": "500"
+    },
+    {
+        "id": "44",
+        "theory_id": "14",
+        "tag_id": "499"
+    },
+    {
+        "id": "45",
+        "theory_id": "13",
+        "tag_id": "497"
+    },
+    {
+        "id": "47",
+        "theory_id": "12",
+        "tag_id": "496"
+    },
+    {
+        "id": "48",
+        "theory_id": "8",
+        "tag_id": "495"
+    },
+    {
+        "id": "49",
+        "theory_id": "6",
+        "tag_id": "492"
+    },
+    {
+        "id": "50",
+        "theory_id": "7",
+        "tag_id": "493"
+    },
+    {
+        "id": "51",
+        "theory_id": "5",
+        "tag_id": "491"
+    },
+    {
+        "id": "52",
+        "theory_id": "4",
+        "tag_id": "490"
+    },
+    {
+        "id": "53",
+        "theory_id": "19",
+        "tag_id": "230"
+    },
+    {
+        "id": "54",
+        "theory_id": "20",
+        "tag_id": "193"
+    },
+    {
+        "id": "55",
+        "theory_id": "21",
+        "tag_id": "230"
+    },
+    {
+        "id": "71",
+        "theory_id": "23",
+        "tag_id": "504"
+    },
+    {
+        "id": "72",
+        "theory_id": "24",
+        "tag_id": "504"
+    },
+    {
+        "id": "73",
+        "theory_id": "25",
+        "tag_id": "504"
+    },
+    {
+        "id": "74",
+        "theory_id": "26",
+        "tag_id": "504"
+    },
+    {
+        "id": "75",
+        "theory_id": "27",
+        "tag_id": "504"
+    },
+    {
+        "id": "76",
+        "theory_id": "28",
+        "tag_id": "504"
+    },
+    {
+        "id": "77",
+        "theory_id": "22",
+        "tag_id": "504"
+    },
+    {
+        "id": "78",
+        "theory_id": "29",
+        "tag_id": "505"
+    },
+    {
+        "id": "79",
+        "theory_id": "30",
+        "tag_id": "505"
+    },
+    {
+        "id": "80",
+        "theory_id": "31",
+        "tag_id": "505"
+    },
+    {
+        "id": "82",
+        "theory_id": "33",
+        "tag_id": "54"
+    },
+    {
+        "id": "83",
+        "theory_id": "32",
+        "tag_id": "54"
+    },
+    {
+        "id": "85",
+        "theory_id": "35",
+        "tag_id": "54"
+    },
+    {
+        "id": "88",
+        "theory_id": "38",
+        "tag_id": "58"
+    },
+    {
+        "id": "92",
+        "theory_id": "39",
+        "tag_id": "58"
+    },
+    {
+        "id": "98",
+        "theory_id": "37",
+        "tag_id": "57"
+    },
+    {
+        "id": "99",
+        "theory_id": "36",
+        "tag_id": "57"
+    },
+    {
+        "id": "100",
+        "theory_id": "40",
+        "tag_id": "58"
+    },
+    {
+        "id": "103",
+        "theory_id": "42",
+        "tag_id": "12"
+    },
+    {
+        "id": "104",
+        "theory_id": "43",
+        "tag_id": "12"
+    },
+    {
+        "id": "105",
+        "theory_id": "44",
+        "tag_id": "12"
+    },
+    {
+        "id": "106",
+        "theory_id": "45",
+        "tag_id": "12"
+    },
+    {
+        "id": "107",
+        "theory_id": "46",
+        "tag_id": "506"
+    },
+    {
+        "id": "109",
+        "theory_id": "47",
+        "tag_id": "506"
+    },
+    {
+        "id": "110",
+        "theory_id": "48",
+        "tag_id": "506"
+    },
+    {
+        "id": "111",
+        "theory_id": "49",
+        "tag_id": "506"
+    },
+    {
+        "id": "112",
+        "theory_id": "50",
+        "tag_id": "506"
+    },
+    {
+        "id": "113",
+        "theory_id": "51",
+        "tag_id": "507"
+    },
+    {
+        "id": "114",
+        "theory_id": "52",
+        "tag_id": "507"
+    },
+    {
+        "id": "116",
+        "theory_id": "53",
+        "tag_id": "507"
+    },
+    {
+        "id": "118",
+        "theory_id": "55",
+        "tag_id": "507"
+    },
+    {
+        "id": "119",
+        "theory_id": "54",
+        "tag_id": "507"
+    },
+    {
+        "id": "120",
+        "theory_id": "56",
+        "tag_id": "507"
+    },
+    {
+        "id": "121",
+        "theory_id": "57",
+        "tag_id": "507"
+    },
+    {
+        "id": "122",
+        "theory_id": "58",
+        "tag_id": "507"
+    },
+    {
+        "id": "123",
+        "theory_id": "59",
+        "tag_id": "507"
+    },
+    {
+        "id": "125",
+        "theory_id": "34",
+        "tag_id": "54"
+    },
+    {
+        "id": "126",
+        "theory_id": "60",
+        "tag_id": "54"
+    },
+    {
+        "id": "129",
+        "theory_id": "61",
+        "tag_id": "55"
+    },
+    {
+        "id": "132",
+        "theory_id": "62",
+        "tag_id": "86"
+    },
+    {
+        "id": "136",
+        "theory_id": "41",
+        "tag_id": "62"
+    },
+    {
+        "id": "139",
+        "theory_id": "63",
+        "tag_id": "56"
+    },
+    {
+        "id": "140",
+        "theory_id": "64",
+        "tag_id": "58"
+    },
+    {
+        "id": "142",
+        "theory_id": "65",
+        "tag_id": "59"
+    },
+    {
+        "id": "143",
+        "theory_id": "66",
+        "tag_id": "91"
+    },
+    {
+        "id": "144",
+        "theory_id": "67",
+        "tag_id": "91"
+    },
+    {
+        "id": "145",
+        "theory_id": "68",
+        "tag_id": "92"
+    },
+    {
+        "id": "149",
+        "theory_id": "69",
+        "tag_id": "84"
+    },
+    {
+        "id": "150",
+        "theory_id": "70",
+        "tag_id": "95"
+    },
+    {
+        "id": "152",
+        "theory_id": "71",
+        "tag_id": "74"
+    },
+    {
+        "id": "153",
+        "theory_id": "72",
+        "tag_id": "74"
+    },
+    {
+        "id": "154",
+        "theory_id": "73",
+        "tag_id": "74"
+    },
+    {
+        "id": "155",
+        "theory_id": "74",
+        "tag_id": "73"
+    },
+    {
+        "id": "161",
+        "theory_id": "76",
+        "tag_id": "110"
+    },
+    {
+        "id": "163",
+        "theory_id": "75",
+        "tag_id": "110"
+    },
+    {
+        "id": "164",
+        "theory_id": "77",
+        "tag_id": "508"
+    },
+    {
+        "id": "167",
+        "theory_id": "78",
+        "tag_id": "508"
+    },
+    {
+        "id": "168",
+        "theory_id": "79",
+        "tag_id": "375"
+    },
+    {
+        "id": "169",
+        "theory_id": "80",
+        "tag_id": "375"
+    },
+    {
+        "id": "173",
+        "theory_id": "81",
+        "tag_id": "521"
+    },
+    {
+        "id": "174",
+        "theory_id": "83",
+        "tag_id": "523"
+    },
+    {
+        "id": "175",
+        "theory_id": "84",
+        "tag_id": "142"
+    },
+    {
+        "id": "177",
+        "theory_id": "85",
+        "tag_id": "146"
+    },
+    {
+        "id": "178",
+        "theory_id": "86",
+        "tag_id": "147"
+    },
+    {
+        "id": "180",
+        "theory_id": "82",
+        "tag_id": "521"
+    },
+    {
+        "id": "181",
+        "theory_id": "87",
+        "tag_id": "156"
+    },
+    {
+        "id": "184",
+        "theory_id": "88",
+        "tag_id": "477"
+    },
+    {
+        "id": "186",
+        "theory_id": "89",
+        "tag_id": "596"
+    },
+    {
+        "id": "187",
+        "theory_id": "90",
+        "tag_id": "596"
+    },
+    {
+        "id": "189",
+        "theory_id": "91",
+        "tag_id": "54"
+    },
+    {
+        "id": "190",
+        "theory_id": "92",
+        "tag_id": "596"
+    }
+]

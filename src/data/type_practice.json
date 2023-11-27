@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Minh Họa",
+        "order_number": "1",
+        "is_published": "1"
+    },
+    {
+        "id": "2",
+        "name": "Cao Đẳng",
+        "order_number": "2",
+        "is_published": "1"
+    },
+    {
+        "id": "3",
+        "name": "Đại Học",
+        "order_number": "3",
+        "is_published": "1"
+    },
+    {
+        "id": "4",
+        "name": "Quốc Gia",
+        "order_number": "4",
+        "is_published": "1"
+    },
+    {
+        "id": "5",
+        "name": "Tốt Nghiệp",
+        "order_number": "5",
+        "is_published": "1"
+    }
+]

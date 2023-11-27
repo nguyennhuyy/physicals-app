@@ -1,0 +1,242 @@
+[
+    {
+        "id": "13",
+        "formula_id": "647",
+        "theory_id": "18"
+    },
+    {
+        "id": "14",
+        "formula_id": "648",
+        "theory_id": "18"
+    },
+    {
+        "id": "15",
+        "formula_id": "649",
+        "theory_id": "18"
+    },
+    {
+        "id": "18",
+        "formula_id": "253",
+        "theory_id": "43"
+    },
+    {
+        "id": "20",
+        "formula_id": "255",
+        "theory_id": "43"
+    },
+    {
+        "id": "22",
+        "formula_id": "253",
+        "theory_id": "44"
+    },
+    {
+        "id": "23",
+        "formula_id": "340",
+        "theory_id": "45"
+    },
+    {
+        "id": "24",
+        "formula_id": "23",
+        "theory_id": "44"
+    },
+    {
+        "id": "44",
+        "formula_id": "6",
+        "theory_id": "41"
+    },
+    {
+        "id": "45",
+        "formula_id": "7",
+        "theory_id": "61"
+    },
+    {
+        "id": "46",
+        "formula_id": "53",
+        "theory_id": "62"
+    },
+    {
+        "id": "51",
+        "formula_id": "27",
+        "theory_id": "69"
+    },
+    {
+        "id": "52",
+        "formula_id": "123",
+        "theory_id": "70"
+    },
+    {
+        "id": "53",
+        "formula_id": "126",
+        "theory_id": "70"
+    },
+    {
+        "id": "55",
+        "formula_id": "854",
+        "theory_id": "71"
+    },
+    {
+        "id": "56",
+        "formula_id": "27",
+        "theory_id": "72"
+    },
+    {
+        "id": "57",
+        "formula_id": "28",
+        "theory_id": "73"
+    },
+    {
+        "id": "61",
+        "formula_id": "944",
+        "theory_id": "75"
+    },
+    {
+        "id": "63",
+        "formula_id": "946",
+        "theory_id": "78"
+    },
+    {
+        "id": "65",
+        "formula_id": "82",
+        "theory_id": "79"
+    },
+    {
+        "id": "66",
+        "formula_id": "84",
+        "theory_id": "79"
+    },
+    {
+        "id": "67",
+        "formula_id": "85",
+        "theory_id": "79"
+    },
+    {
+        "id": "68",
+        "formula_id": "46",
+        "theory_id": "74"
+    },
+    {
+        "id": "69",
+        "formula_id": "254",
+        "theory_id": "43"
+    },
+    {
+        "id": "70",
+        "formula_id": "83",
+        "theory_id": "79"
+    },
+    {
+        "id": "74",
+        "formula_id": "95",
+        "theory_id": "81"
+    },
+    {
+        "id": "75",
+        "formula_id": "96",
+        "theory_id": "81"
+    },
+    {
+        "id": "76",
+        "formula_id": "101",
+        "theory_id": "83"
+    },
+    {
+        "id": "77",
+        "formula_id": "99",
+        "theory_id": "83"
+    },
+    {
+        "id": "78",
+        "formula_id": "100",
+        "theory_id": "83"
+    },
+    {
+        "id": "79",
+        "formula_id": "103",
+        "theory_id": "83"
+    },
+    {
+        "id": "80",
+        "formula_id": "102",
+        "theory_id": "83"
+    },
+    {
+        "id": "84",
+        "formula_id": "115",
+        "theory_id": "85"
+    },
+    {
+        "id": "85",
+        "formula_id": "114",
+        "theory_id": "85"
+    },
+    {
+        "id": "86",
+        "formula_id": "116",
+        "theory_id": "86"
+    },
+    {
+        "id": "87",
+        "formula_id": "117",
+        "theory_id": "86"
+    },
+    {
+        "id": "88",
+        "formula_id": "118",
+        "theory_id": "86"
+    },
+    {
+        "id": "90",
+        "formula_id": "97",
+        "theory_id": "82"
+    },
+    {
+        "id": "91",
+        "formula_id": "124",
+        "theory_id": "87"
+    },
+    {
+        "id": "92",
+        "formula_id": "125",
+        "theory_id": "87"
+    },
+    {
+        "id": "93",
+        "formula_id": "128",
+        "theory_id": "87"
+    },
+    {
+        "id": "95",
+        "formula_id": "5",
+        "theory_id": "41"
+    },
+    {
+        "id": "96",
+        "formula_id": "851",
+        "theory_id": "88"
+    },
+    {
+        "id": "97",
+        "formula_id": "965",
+        "theory_id": "92"
+    },
+    {
+        "id": "98",
+        "formula_id": "966",
+        "theory_id": "92"
+    },
+    {
+        "id": "99",
+        "formula_id": "967",
+        "theory_id": "92"
+    },
+    {
+        "id": "100",
+        "formula_id": "968",
+        "theory_id": "92"
+    },
+    {
+        "id": "102",
+        "formula_id": "20",
+        "theory_id": "65"
+    }
+]

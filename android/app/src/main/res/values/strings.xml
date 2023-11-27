@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhysicalApp</string>
+     <string moduleConfig="true" name="CodePushDeploymentKey">gNV1guG8AoC4Z-WTMBIXhmnqGMb7GKpTfaEEi</string>
+</resources>
