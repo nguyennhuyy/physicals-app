@@ -7,6 +7,7 @@ import { ScrollView } from "react-native-gesture-handler";
 import Modal from "react-native-modalbox";
 import { COLOR } from "utils/AppConst";
 import STYLE_GLOBAL from "utils/StyleGlobal";
+import { GestureHandlerRootView } from "react-native-gesture-handler";
 
 export default function ModalSelectItem({
   onClosed,
@@ -49,29 +50,31 @@ export default function ModalSelectItem({
           </AppText>
         </View>
       ) : (
-        <ScrollView>
-          {listData &&
-            listData.length > 0 &&
-            listData.map((item, index) => (
-              <TouchableOpacity
-                activeOpacity={1}
-                key={index}
-                style={styles.item}
-                onPress={
-                  onPress
-                    ? () => {
-                        onClosed();
-                        onPress(item);
-                      }
-                    : () => {}
-                }
-              >
-                <AppText style={[STYLE_GLOBAL.body1, styles.title]}>
-                  {keyDisplay ? item[keyDisplay] : item}
-                </AppText>
-              </TouchableOpacity>
-            ))}
-        </ScrollView>
+        <GestureHandlerRootView>
+          <ScrollView>
+            {listData &&
+              listData.length > 0 &&
+              listData.map((item, index) => (
+                <TouchableOpacity
+                  activeOpacity={1}
+                  key={index}
+                  style={styles.item}
+                  onPress={
+                    onPress
+                      ? () => {
+                          onClosed();
+                          onPress(item);
+                        }
+                      : () => {}
+                  }
+                >
+                  <AppText style={[STYLE_GLOBAL.body1, styles.title]}>
+                    {keyDisplay ? item[keyDisplay] : item}
+                  </AppText>
+                </TouchableOpacity>
+              ))}
+          </ScrollView>
+        </GestureHandlerRootView>
       )}
     </Modal>
   );
