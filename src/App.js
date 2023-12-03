@@ -8,22 +8,25 @@ import SplashScreen from "react-native-splash-screen";
 import "./locales/IMLocalize";
 
 import Root from "./screens";
+import { GestureHandlerRootView } from "react-native-gesture-handler";
 
 function App() {
   React.useEffect(() => {
     SplashScreen.hide();
   });
   return (
-    <Provider store={storeConfig.store}>
-      <PersistGate loading={null} persistor={storeConfig.persistor}>
+    <GestureHandlerRootView>
+      <Provider store={storeConfig.store}>
+        <PersistGate loading={null} persistor={storeConfig.persistor}>
           <StatusBar
             backgroundColor="transparent"
             translucent={true}
             barStyle={"light-content"}
           />
           <Root />
-      </PersistGate>
-    </Provider>
+        </PersistGate>
+      </Provider>
+    </GestureHandlerRootView>
   );
 }
 
